@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/yC8X1hOn)
 # AI Assistant Class – This Semester
 
 Welcome to our advanced AI development class, where we focus on building a domain-specific AI assistant for remote sensing and geoscience. This course builds upon coding and machine learning concepts from previous semesters and introduces specialized methods for AI model adaptation, deployment, and optimization.
